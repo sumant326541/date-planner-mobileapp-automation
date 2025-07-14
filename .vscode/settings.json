@@ -1,0 +1,12 @@
+{
+    "step-definition-generator.language": "javascript",
+    "step-definition-generator.async": true,
+    "step-definition-generator.runner": "cucumberjs",
+    "files.autoSave": "afterDelay",
+    "cucumberautocomplete.customParameters": [],
+    "cucumberautocomplete.steps": [
+      "e2e/step-definitions/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "e2e/features/*.feature"
+  }
+  

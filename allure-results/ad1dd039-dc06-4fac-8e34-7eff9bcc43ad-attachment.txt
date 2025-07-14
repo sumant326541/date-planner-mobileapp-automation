@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//XCUIElementTypeDatePicker[@name=\"Date\"]//XCUIElementTypeButton)[2]"
+}
